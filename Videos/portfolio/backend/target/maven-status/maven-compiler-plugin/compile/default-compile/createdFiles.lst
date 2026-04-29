@@ -1,0 +1,4 @@
+com/portfolio/repository/ProjectRepository.class
+com/portfolio/PortfolioApplication.class
+com/portfolio/model/Project.class
+com/portfolio/controller/ProjectController.class
